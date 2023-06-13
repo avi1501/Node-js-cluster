@@ -8,6 +8,12 @@ we can create node js Cluster with the help of node js cluster module
 
 ##### Sample demo is in [index.js](github.com/avi1501/Node-js-cluster/index.js) file 
 
+
+#### Perform automatic handling of node js cluster using pm2 
+
+1. It comes with inbuilt load balancer
+2. It will take care of restarting the exited worker process without downtime
+
 ## To Perform Load testting on application
 
 Install artillery (installing as dev-dependencies) (documentation)
