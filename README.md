@@ -6,7 +6,7 @@ node js cluster setup is needed
 
 we can create node js Cluster with the help of node js cluster module 
 
-##### Sample demo is in [index.js](github.com/avi1501/Node-js-cluster/index.js) file 
+##### Sample demo is in [index.js](https://github.com/avi1501/Node-js-cluster/blob/main/index.js) file 
 
 
 #### Perform automatic handling of node js cluster using pm2 
